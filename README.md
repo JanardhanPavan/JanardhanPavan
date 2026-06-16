@@ -68,14 +68,14 @@ I'm a passionate full-stack developer with strong expertise in **Java backend de
 <tr>
 <td width="50%">
 
-**🎯 [JP_Portfolio](https://github.com/JanardhanPavan)**
+**🎯 [JP_Portfolio](https://github.com/JanardhanPavan/JP_Portfolio)**
 Professional portfolio website
 `React` `TypeScript` `Bootstrap` `Figma`
 
 </td>
 <td width="50%">
 
-**💼 [JobPortal](https://github.com/JanardhanPavan/JP_Portfolio)**
+**💼 [JobPortal](https://github.com/JanardhanPavan/JobPortal/tree/main/JobPortal)**
 Full-stack job portal application
 `React` `Node.js` `MySQL` `Bootstrap`
 
