@@ -75,7 +75,7 @@ Professional portfolio website
 </td>
 <td width="50%">
 
-**💼 [JobPortal](https://github.com/JanardhanPavan)**
+**💼 [JobPortal](https://github.com/JanardhanPavan/JP_Portfolio)**
 Full-stack job portal application
 `React` `Node.js` `MySQL` `Bootstrap`
 
@@ -84,14 +84,14 @@ Full-stack job portal application
 <tr>
 <td width="50%">
 
-**🚚 [ABC-Logistics-Management-System](https://github.com/JanardhanPavan)**
+**🚚 [ABC-Logistics-Management-System](https://github.com/JanardhanPavan/ABC-Logistics-Management-System)**
 Enterprise logistics platform
 `Java` `MySQL`
 
 </td>
 <td width="50%">
 
-**🎨 [mini-excalidraw](https://github.com/JanardhanPavan)**
+**🎨 [mini-excalidraw](https://github.com/JanardhanPavan/mini-excalidraw/tree/main/assignment)**
 Drawing & whiteboard tool
 `React` `TypeScript`
 
@@ -100,16 +100,16 @@ Drawing & whiteboard tool
 <tr>
 <td width="50%">
 
-**👁️ [ObjectDetection](https://github.com/JanardhanPavan)**
-Computer vision project
-`Python`
+**👁️ [UserStats](https://github.com/JanardhanPavan/UserStats)**
+FeedBack System
+`React` `express` `Tailwind`
 
 </td>
 <td width="50%">
 
-**🚗 [CarRentalManagement](https://github.com/JanardhanPavan)**
-Car rental management system
-`Java` `JDBC`
+**🚗 [Heavenly Bakes](https://github.com/JanardhanPavan/Heavenly-bakes)**
+E-commerce Bakery
+`HTML` `Css` `JavaScript`
 
 </td>
 </tr>
