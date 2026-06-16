@@ -1,8 +1,4 @@
-# 🚀 GitHub Dedication Dashboard - JanardhanPavan
-
-**Generated:** June 16, 2026  
-**Profile:** [@JanardhanPavan](https://github.com/JanardhanPavan)
-
+# 🚀 GitHub - JanardhanPavan
 ---
 
 ## 📊 Profile Overview
@@ -13,7 +9,6 @@
 ╠════════════════════════════════════════════════════════════════╣
 ║  Total Repositories:           23                              ║
 ║  Primary Languages:            Java, JavaScript, TypeScript    ║
-║  Recent Activity:              Last 6 days                     ║
 ║  Contribution Focus:           Full-Stack Development          ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
@@ -99,8 +94,7 @@ JavaScript           ████████████████░░░ 8
 HTML5                ████████████████░░░ 85%
 CSS3                 ████████████████░░░ 85%
 Bootstrap            ███████████████░░░░ 80%
-Angular              ███████████░░░░░░░░ 70%
-Figma                ███████████░░░░░░░░ 70%
+Angular              █████░░░░░░░░░░░░░░ 30%
 ```
 
 ### Database & Data
@@ -108,14 +102,12 @@ Figma                ███████████░░░░░░░░ 7
 MySQL                ████████████████░░░ 85%
 SQL                  ████████████████░░░ 85%
 Python               ███████████░░░░░░░░ 60%
-Apache Hadoop        ███████████░░░░░░░░ 70%
 ```
 
 ### DevOps & Tools
 ```
-Docker               ███████████████░░░░ 80%
+Docker               █████████░░░░░░░░░░ 80%
 Kubernetes           ███████████░░░░░░░░ 70%
-AWS / EC2            ████████████░░░░░░░ 75%
 Linux                ████████████████░░░ 85%
 Git                  ████████████████░░░ 85%
 Visual Studio Code   ████████████████░░░ 85%
@@ -173,12 +165,5 @@ Data/ML (Python/Hadoop)       5%  ██░░░
 
 ---
 
-## 🔥 Overall Dedication Score: 9.2/10
-
 A skilled full-stack developer with strong Java backend expertise and modern React frontend capabilities.
-
----
-
-*Dashboard Generated: June 16, 2026*  
-*Repository: JanardhanPavan/JP_Portfolio*
 
