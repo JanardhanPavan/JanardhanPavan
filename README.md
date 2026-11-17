@@ -117,6 +117,12 @@ E-commerce Bakery
 
 ---
 
+### 🔧 Embedded Systems Troubleshooting
+
+- **[Fix: GCC for Renesas RL78 Toolchain Not Available in e² studio](docs/renesas-rl78-gcc-toolchain-registration-fix.md)** — a step-by-step guide to manually registering the extracted RL78 GCC toolchain in Renesas Toolchain Management.
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
